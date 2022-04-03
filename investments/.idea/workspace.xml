@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2607f70-84f5-49fd-ac87-77b616f5fce2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/Django_projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/Django_projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/autominati/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/autominati/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/autominati/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/autominati/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/autominati/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/migrations/0002_contact_phone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/migrations/0003_auto_20200907_1403.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/static/main/117179075_582640455744958_4316203186537209517_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/static/main/117304677_590255834983420_1390476399921102148_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/static/main/117398808_590255644983439_8038335420306395899_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/static/main/noun_Media_2151136.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/static/main/onlinelogomaker-081620-0241-9785-500.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/static/main/onlinelogomaker-081620-2332-1060.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/static/main/onlinelogomaker-081620-2332-1060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/static/main/quora.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/templates/main/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/templates/main/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/templates/main/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/templates/main/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/main/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/media/images/117179075_582640455744958_4316203186537209517_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/media/images/117304677_590255834983420_1390476399921102148_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/media/images/117398808_590255644983439_8038335420306395899_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/media/images/noun_Media_2151136.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/media/images/onlinelogomaker-081620-0241-9785-500.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/media/images/onlinelogomaker-081620-2332-1060.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/media/images/onlinelogomaker-081620-2332-1060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/media/images/quora.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/css/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/css/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/css/jquery-ui.theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/css/onto.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/css/onto.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/djclaz/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/117179075_582640455744958_4316203186537209517_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/117304677_590255834983420_1390476399921102148_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/117398808_590255644983439_8038335420306395899_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/different-hues-of-color-of-the-sky-2847648.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/favicon.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/gmail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/harshad_good.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/harshad_profile.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/linked_in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/noun_Media_2151136.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/onlinelogomaker-081620-0241-9785-500.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/onlinelogomaker-081620-2332-1060.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/onlinelogomaker-081620-2332-1060.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/quora.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/telegram.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/telegram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/images/whatsapp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/js/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/js/validations.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../autominati/static/text/demo_test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../investments_app_aws" beforeDir="false" afterPath="$PROJECT_DIR$/../../investments_app_aws" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="27Hz1Y1cM1MwnukSKsJMo1wWMed" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/manage.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="investments" type="PythonConfigurationType" factoryName="Python">
+      <module name="investments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.local/share/virtualenvs/investments-GhnhbgXc/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2607f70-84f5-49fd-ac87-77b616f5fce2" name="Default Changelist" comment="" />
+      <created>1648991585102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648991585102</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="207" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648991679290">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="414" y="207" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1648991679290" />
+    <state x="680" y="256" width="530" height="598" key="FileChooserDialogImpl" timestamp="1648991665799">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="680" y="256" width="530" height="598" key="FileChooserDialogImpl/0.34.1920.1046@0.34.1920.1046" timestamp="1648991665799" />
+    <state width="1892" height="262" key="GridCell.Tab.0.bottom" timestamp="1648991781681">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1892" height="262" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1648991781681" />
+    <state width="1892" height="262" key="GridCell.Tab.0.center" timestamp="1648991781680">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1892" height="262" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1648991781680" />
+    <state width="1892" height="262" key="GridCell.Tab.0.left" timestamp="1648991781680">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1892" height="262" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1648991781680" />
+    <state width="1892" height="262" key="GridCell.Tab.0.right" timestamp="1648991781681">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1892" height="262" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1648991781681" />
+    <state x="324" y="103" key="SettingsEditor" timestamp="1648991648055">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="324" y="103" key="SettingsEditor/0.34.1920.1046@0.34.1920.1046" timestamp="1648991648055" />
+  </component>
+</project>
